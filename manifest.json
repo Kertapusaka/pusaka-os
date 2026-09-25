@@ -1,0 +1,13 @@
+{
+  "name": "Kerta Pusaka AI OS",
+  "short_name": "Kerta Pusaka",
+  "description": "AI-powered operations system for PT Kerta Pusaka Indonesia",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#ea580c",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
